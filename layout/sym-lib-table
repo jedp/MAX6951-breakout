@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "MAX6951-breakout-rescue")(type "Legacy")(uri "${KIPRJMOD}/MAX6951-breakout-rescue.lib")(options "")(descr ""))
+  (lib (name "MAX6951")(type "KiCad")(uri "/Users/jed/code/MAX6951-breakout/library/MAX6951.kicad_sym")(options "")(descr ""))
+)

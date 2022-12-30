@@ -1,6 +1,8 @@
 *sw[op]
 *~
 *bak
+*-backups/
+*-rescue*
 _autosave*
 
 fp-info-cache
